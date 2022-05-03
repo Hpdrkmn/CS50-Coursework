@@ -1,5 +1,0 @@
-Prompt user for height integer
-if integer height is not inbetween 1 - 8, reprompt user
-    else print height as "#" to int specification
-    add spaces to form right sided pattern
-    
