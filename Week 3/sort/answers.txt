@@ -1,0 +1,9 @@
+sort1 uses: Bubble Sort
+
+How do you know?:Bubble Sort produced faster results than a txt that was ran with selection sort
+sort2 uses: Merge Sort
+
+How do you know?: Merge sort had the fastest time when sorting random10000.txt
+
+sort3 uses: Selection Sort
+How do you know?: Selection sort had the slowest time typically when sorting random data
